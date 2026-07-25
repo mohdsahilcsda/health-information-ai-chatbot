@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+skikit-learn
+joblib
+langchain-groq
+python-dotnov
+langchain
