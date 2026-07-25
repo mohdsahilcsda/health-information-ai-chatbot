@@ -6,5 +6,5 @@ joblib
 langchain
 langchain-core
 langchain-groq
-python-dotnov
+python-dotenv
 groq
