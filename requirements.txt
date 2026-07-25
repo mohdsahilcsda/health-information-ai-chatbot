@@ -3,6 +3,8 @@ pandas
 numpy
 scikit-learn
 joblib
+langchain
+langchain-core
 langchain-groq
 python-dotnov
-langchain
+groq
